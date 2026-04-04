@@ -1,6 +1,6 @@
-# Drag-and-Drop-Form-Builder 
+# BuildForm - Drag-and-Drop-Form-Builder 
 
-In this assignment, I have built a visual form designer that dynamically renders a form based on the provided JSON data. Users can add, 
+I have built a visual form designer that dynamically renders a form based on the provided JSON data. Users can add, 
 reorder, and delete form elements, including inputs, selects, and textareas. The form will facilitate seamless editing of labels and placeholders, along with 
 the option to manage select options. Upon saving, the updated form structure will be logged in the console.
 

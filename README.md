@@ -25,10 +25,10 @@ the option to manage select options. Upon saving, the updated form structure wil
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/pratham1916/Sunbase-Frontend-Assignment.git
+    git clone https://github.com/pratham-nemade/ZestForm
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd Drag-and-Drop-Form-Builder 
+    cd ZestForm
     ```
